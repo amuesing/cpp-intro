@@ -92,7 +92,7 @@ int a, b;
 
 // The first mistake is giving each variable a type when defining variables in sequence.
 
-int a, int b; // wrong (compiler error)
+// int a, int b; // wrong (compiler error)
 
 int a, b; // correct
 
@@ -117,3 +117,15 @@ double b;
 // In C++, we use variables to access memory. Variables have an identifier, a type, and a value ( and some other 
 // attributes that aren't relevant here ). A variable's type is used to determine how the value in memory should 
 // be interpreted.
+
+// Data is any information that can be moved, processed, or stored by a computer.
+
+// A value is a single piece of data stored in memory.
+
+// A variable is a named region of memory.
+
+// An identifier is the name that a variable is accessed by.
+
+// A type tells the program how to interpret a value in memory.
+
+// An integer is a number that can be written without a fractional component.
